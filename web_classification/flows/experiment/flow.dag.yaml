@@ -63,9 +63,9 @@ node_variants:
             temperature: 0.2
             text: ${fetch_text_content_from_url.output}
           provider: AzureOpenAI
-          connection: aoai
+          connection: Default_AzureOpenAI
           api: chat
-          module: promptflow.tools.aoai
+          module: promptflow.tools.Default_AzureOpenAI
       variant_1:
         node:
           type: llm
@@ -78,9 +78,9 @@ node_variants:
             temperature: 0.3
             text: ${fetch_text_content_from_url.output}
           provider: AzureOpenAI
-          connection: aoai
+          connection: Default_AzureOpenAI
           api: chat
-          module: promptflow.tools.aoai
+          module: promptflow.tools.Default_AzureOpenAI
     default_variant_id: variant_0
 environment:
     python_requirements_txt: requirements.txt
