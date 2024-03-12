@@ -198,7 +198,7 @@ def prepare_and_execute(
                             # comment the runtime parameter assignment to
                             # enable automatic runtime.
                             # Reference: COMPUTE_RUNTIME
-                            resources={"instance_type": "Standard_E4ds_v4"},
+                            resources={"instance_type": "Standard_E4s_v3"},
                             variant=variant_string,
                             name=(
                                 f"{experiment_name}_{variant_id}"
