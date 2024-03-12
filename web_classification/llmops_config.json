@@ -5,7 +5,7 @@
                     "RUNTIME_NAME": "truptiparkar-mruntime",
                     "KEYVAULT_NAME": "kv-aihubtru605035110344",
                     "RESOURCE_GROUP_NAME": "truptiparkardemorg",
-                    "WORKSPACE_NAME": "aihub-truptiparkar",
+                    "WORKSPACE_NAME": "truptiparkar-demo",
                     "STANDARD_FLOW_PATH": "flows/experiment",
                     "EVALUATION_FLOW_PATH": "flows/evaluation"
                 },
