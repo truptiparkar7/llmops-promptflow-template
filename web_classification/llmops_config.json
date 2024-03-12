@@ -2,7 +2,6 @@
     "envs":[
                 {
                     "ENV_NAME": "pr",
-                    "RUNTIME_NAME": "tpgithub",
                     "KEYVAULT_NAME": "kv-aihubtru605035110344",
                     "RESOURCE_GROUP_NAME": "truptiparkardemorg",
                     "WORKSPACE_NAME": "truptiparkar-demo",
@@ -11,7 +10,6 @@
                 },
                 {
                     "ENV_NAME": "dev",
-                    "RUNTIME_NAME": "tpgithub",
                     "KEYVAULT_NAME": "kv-aihubtru605035110344",
                     "RESOURCE_GROUP_NAME": "truptiparkardemorg",
                     "WORKSPACE_NAME": "truptiparkar-demo",
