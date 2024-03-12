@@ -42,7 +42,7 @@
         {
             "ENV_NAME": "dev",
             "TEST_FILE_PATH": "sample-request.json",
-            "CONNECTION_NAMES": ["Default_AzureOpenAI","aoai"],
+            "CONNECTION_NAMES": ["Default_AzureOpenAI"],
             "REGISTRY_NAME": "truptiparkaracr",
             "REGISTRY_RG_NAME": "truptiparkardemorg",
             "APP_PLAN_NAME": "truptigithubappplan",
