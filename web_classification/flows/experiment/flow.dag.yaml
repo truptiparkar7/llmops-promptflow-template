@@ -65,7 +65,7 @@ node_variants:
           provider: AzureOpenAI
           connection: Default_AzureOpenAI
           api: chat
-          module: promptflow.tools.Default_AzureOpenAI
+          module: promptflow.tools.aoai
       variant_1:
         node:
           type: llm
@@ -80,7 +80,7 @@ node_variants:
           provider: AzureOpenAI
           connection: Default_AzureOpenAI
           api: chat
-          module: promptflow.tools.Default_AzureOpenAI
+          module: promptflow.tools.aoai
     default_variant_id: variant_0
 environment:
     python_requirements_txt: requirements.txt
