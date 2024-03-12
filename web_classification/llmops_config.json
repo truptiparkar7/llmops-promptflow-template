@@ -11,7 +11,6 @@
                 },
                 {
                     "ENV_NAME": "dev",
-                    "RUNTIME_NAME": "truptiparkar-mruntime",
                     "KEYVAULT_NAME": "kv-aihubtru605035110344",
                     "RESOURCE_GROUP_NAME": "truptiparkardemorg",
                     "WORKSPACE_NAME": "truptiparkar-demo",
