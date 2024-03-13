@@ -48,7 +48,7 @@
             "APP_PLAN_NAME": "truptigithubappplan",
             "WEB_APP_NAME": "truptiwebapp",
             "WEB_APP_RG_NAME": "truptiparkardemorg",
-            "WEB_APP_SKU": "B3",
+            "WEB_APP_SKU": "Premium V3",
             "USER_MANAGED_ID": "truptiparkar-user-assigned-mid"
             
         }
